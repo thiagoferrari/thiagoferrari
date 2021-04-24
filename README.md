@@ -5,9 +5,9 @@
 
 - 📝 I regularly write articles on: [https://www.linkedin.com/in/thiagofcjr/detail/recent-activity/posts/](https://www.linkedin.com/in/thiagofcjr/detail/recent-activity/posts/)
 
-- 💬 Ask me about **development with React Apps, etc.**
+- 💬 Ask me about **development with react apps, etc.**
 
-- 📄 See my experiences (Curriculum): [https://1drv.ms/b/s!AiAivs7rJJVEh35fI2xzd4mskb7u?e=rljfl0](https://1drv.ms/b/s!AiAivs7rJJVEh35fI2xzd4mskb7u?e=rljfl0)
+- 📄 See my experiences (Curriculum): [https://1drv.ms/b/s!AiAivs7rJJVEiAA7UvFSLLg8MYTA?e=0FxpxB](https://1drv.ms/b/s!AiAivs7rJJVEiAA7UvFSLLg8MYTA?e=0FxpxB)
 
 
 <h3 align="left">Languages and Tools:</h3>
