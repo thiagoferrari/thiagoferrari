@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Ferrari</h1>
-<h3 align="center">A enthusiastic frontend developer</h3>
+<h3 align="center">Mid/Pleno FullStack Developer | React | Vue.js | Node.js | Flutter</h3>
 
 - 🌱 I’m currently learning **JavaScript, React.js, React Hooks, Redux.**
 
