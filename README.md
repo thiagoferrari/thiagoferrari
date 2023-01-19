@@ -26,8 +26,8 @@
   <strong>4 &bull; Architectures: </strong>MVC, MVVM, SSR, PWA, SPA
 </p>
 <p>
-  <strong>5 &bull; Infrastructure (DevOps):</strong>
-  <strong>5.1 &bull; </strong>Deployment, Configuration and Administration Windows Server, Linux <br>
+  <strong>5 &bull; Infrastructure (DevOps):</strong> <br>
+  <strong>5.1 &bull; </strong>Deployment, Configuration and Administration Windows Server, Linux  <br>
   <strong>5.2 &bull; </strong>Network Protocols (FTP, FTPS, SFTP, SSH, IMAP, POP, SMTP, among others) <br>
   <strong>5.3 &bull; </strong>Azure Devops CI/CD, AWS CodePipeline, Heroku Pipelines, Netlify, Vercel <br>
   <strong>5.4 &bull; </strong>Virtualization: Docker, VMware
