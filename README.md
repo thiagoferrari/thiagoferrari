@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago Ferrari</h1>
 <h3 align="center"><strong>Mid/Pleno FullStack Developer | React | Vue.js | Node.js | Flutter</strong></h3>
 
-- 📄 See my Curriculum - Resume: [https://1drv.ms/b/s!AiAivs7rJJVEiAA7UvFSLLg8MYTA?e=0FxpxB](https://1drv.ms/b/s!AiAivs7rJJVEiAA7UvFSLLg8MYTA?e=0FxpxB)
-
 <h3 align="left"><strong>I work on projects with skills acquired during my career:</strong></h3>
 <p align="left">
 <p><strong>• Soft Skills:</strong> Leadership, Flexibility and Resilience, Teamwork, Creativity, Proactivity, Empathy, Work Ethics, Critical Thinking, Positive Attitude, Openness and Agility for New Learning.</p>
